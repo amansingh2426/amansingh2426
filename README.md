@@ -33,7 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React.JS](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansingh2426&show_icons=true&locale=en" alt="amansingh2426" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh2426&" alt="amansingh2426" /></p>
 
