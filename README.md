@@ -17,6 +17,8 @@
 [![](https://img.shields.io/badge/-amansingh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-singh-60bab624a/)](https://www.linkedin.com/in/aman-singh-60bab624a/)
 [![](https://img.shields.io/badge/-am.a.n_-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/am.a.n_singh/)](https://www.instagram.com/am.a.n_singh/)
 [![](https://img.shields.io/badge/-amanvns220@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Amansingh)](mailto:amanvns220@gmail.com)
+![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=amansingh)
+[![](https://img.shields.io/badge/-amansingh-171515?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/amansingh2426))
 
 
 
